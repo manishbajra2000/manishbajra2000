@@ -1,4 +1,4 @@
-# Manish Bajracharya
+# Manish Harsha Bajracharya
 
 Aspiring AI/ML Engineer
 
